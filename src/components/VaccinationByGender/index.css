@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.vaccine-coverage-section {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding: 20px 5px 5px 10px;
+  margin-bottom: 20px;
+}
+.section-small-title {
+  font-size: 18px;
+  color: #cbd5e1;
+}
